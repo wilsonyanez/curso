@@ -1,0 +1,6 @@
+URL, con la dirección del proyecto calculadora,
+realizado por Wilson Yánez:
+
+https://github.com/wilsonyanez/calculadora
+
+Versión: 1.00.02
